@@ -1,0 +1,8 @@
+{
+  "name": "my-ci-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mnajjarian/my-ci-test",
+  "author": "Mahdi Najjarian <mnajarian@gmail.com>",
+  "license": "MIT"
+}

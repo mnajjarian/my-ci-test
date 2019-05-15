@@ -6,7 +6,7 @@
   "author": "Mahdi Najjarian <mnajarian@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "test": "jest"
+    "test": "jest src/__test__/foo.test.js"
   },
   "devDependencies": {
     "jest": "^24.8.0"

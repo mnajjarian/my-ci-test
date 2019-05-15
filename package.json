@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/mnajjarian/my-ci-test",
   "author": "Mahdi Najjarian <mnajarian@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "test": ""
+  }
 }
